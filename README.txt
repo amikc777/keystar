@@ -1,6 +1,6 @@
 # keystar
 
-Piano Pracitce App/Rhythm Game
+Piano Practice App/Rhythm Game
   Application built in C++. Allows users to practice piano playing by displaying actual musical notes (both stationary and scrolling, similar to other rhythm games) and accepting MIDI input. Supports import of MIDI files to populate new tracks for practice.
 
 Features

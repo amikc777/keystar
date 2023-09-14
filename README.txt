@@ -12,6 +12,10 @@ Features
 
 Technologies Used
   C++
+  Git
+  Confluence
+  Jira
+  Raylib
   ???
 
 Installation
@@ -22,5 +26,6 @@ Future Features
   Support for keyboards of various sizes aside from standard (88 keys) and automatic transposing of tracks to accomodate.
   MuseScore connectedness to allow users to pull compositions from their MuseScore account and upload compositions to their MuseScore account.
   "Compose Mode" allowing users to record to sheet music by playing in real-time.
+
 
 
